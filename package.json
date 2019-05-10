@@ -1,0 +1,15 @@
+{
+  "name": "game-0hh1",
+  "version": "0.0.1",
+  "description": "Logic game 0hh1",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "0hh1",
+    "game"
+  ],
+  "author": "b.mykhailov@gmail.com",
+  "license": "ISC"
+}

@@ -1,0 +1,28 @@
+table {
+    width: 300px;
+    height: 300px;
+    border-spacing: 4px 4px;
+}
+
+td {
+    background-color: #2a2a2a;
+    border-radius: 10px;
+}
+
+.color-click {
+    background-color: #d55336;
+}
+
+.color-dblclick {
+    background-color: #35b8d5;
+}
+
+.game-0hh1 {
+    position: absolute;
+    background-color: #222;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
